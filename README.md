@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I'm Armand — a Machine Learning engineer and data enthusiast from France 🇫🇷.  
+I'm Armand — a Machine Learning engineer and data enthusiast from France.  
 I love building things that are not only smart, but actually useful. 
 
 ### What I'm working on 🔭
